@@ -1,0 +1,356 @@
+{
+  "edition": 1,
+  "date": "2026-11-01",
+  "week_label": "Week of 1 November 2026",
+  "headline": "3 young stores to learn from",
+  "intro": "Three Shopify stores, all launched in the last 12 months, all growing in English-speaking markets, and each built on a different acquisition model: two scale on Meta, one grows on <b>Pinterest + Google</b> with no Meta ads at all.",
+  "key_takeaway": "Pinterest Visual Search Ads are the easiest new placement to test before Black Friday: they reuse your existing product creative.",
+  "method": "Trend Track filters: store created after Sep 2025; main traffic market US, UK, CA or AU; traffic growth above 30–50% over 90 days; tracked revenue above $40k/month. The Pinterest candidate also had to carry the <b>Pinterest Tag</b> with few or no Meta ads, then its traffic sources were checked on Similarweb. Revenue and units are Trend Track estimates (shown with ranges), not audited figures. *Orders are estimated from units and bundle offers.",
+  "actions": [
+    "Test <b>Pinterest Visual Search Ads</b> with your top 5 products before Black Friday. No new creative needed.",
+    "In Meta, check <b>Product browsing</b> on your best ads so traffic still lands on your offer page.",
+    "Borrow the Hematix stack: hero SKU + consumable + subscription, and a cart progress bar to a free gift.",
+    "Borrow the Emma Olivia naming: first name + benefit in product titles, which works for Pins and Google Shopping."
+  ],
+  "stores": [
+    {
+      "name": "Hematix",
+      "domain": "myhematix.com",
+      "channel": "Meta-driven",
+      "niche": "Men's wellness jewellery",
+      "launched": "26 Nov 2025",
+      "origin": "US",
+      "market": "US 100% of traffic",
+      "kpis": [
+        {
+          "value": "$2.85M",
+          "label": "Est. revenue, last 30d",
+          "note": "range $1.07M–$4.62M"
+        },
+        {
+          "value": "98.4k",
+          "label": "Units sold, last 30d",
+          "note": "≈ 45–55k orders*"
+        },
+        {
+          "value": "481k",
+          "label": "Monthly visits (Sep)",
+          "note": "+28% vs. prior 30d"
+        },
+        {
+          "value": "1,872",
+          "label": "Active Meta ads",
+          "note": "7 linked FB pages"
+        }
+      ],
+      "traffic": {
+        "labels": [
+          "Apr",
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep"
+        ],
+        "values": [
+          118143,
+          129175,
+          132472,
+          322149,
+          164955,
+          480824
+        ]
+      },
+      "branding": [
+        {
+          "label": "Identity",
+          "text": "All-caps wordmark <b>HEMATIX</b>; black, polished hematite and copper accents on packaging. Premium, editorial look on a mass-market product."
+        },
+        {
+          "label": "Voice",
+          "text": "Short lifestyle lines on site (<i>“Find your element.” · “Make the everyday yours.”</i>), very aggressive copy in ads (energy, focus, “masculine drive”)."
+        },
+        {
+          "label": "Conversion stack",
+          "text": "Sticky BOGO bar (“Buy 1 Get 1 Free · 50% off today only” + countdown), cart progress bar to free shipping and a free gift, sweepstakes entry (supercar experience / Apple Watch) as a best-selling “product”, subscription via Loop."
+        }
+      ],
+      "best_sellers": [
+        {
+          "name": "Hematite Bracelet (Strength Band)",
+          "price": "$39.99"
+        },
+        {
+          "name": "Abundance Bracelet",
+          "price": "$39.90"
+        },
+        {
+          "name": "Rock Solid testosterone gummies",
+          "price": "$39.00"
+        },
+        {
+          "name": "Extra pouch, 30 gummies",
+          "price": "$49.90"
+        },
+        {
+          "name": "Shipping Protection (add-on)",
+          "price": "$3.90"
+        }
+      ],
+      "ads": [
+        "<b>Meta</b> is the engine: 1,872 active ads, spread over 7 Facebook pages (main page: 15.9k likes, 5.3M total reach), steady at 1,900–2,700 ads every week since September.",
+        "Targets US 25%, CA 21%, UK 21%, AU 19%, NZ 14% of ad delivery, so a clean five-country English-speaking play.",
+        "<b>Google Ads</b>: 24 live ads (supporting role). <b>Email</b>: ~1 send/week, mostly % discounts (Halloween −15%).",
+        "Winning creative: long UGC “sceptic expert” videos and history storytelling (“Viking warrior stone”). Top image ad: 182 days live, ~700k reach."
+      ],
+      "lessons": [
+        "One hero SKU + one consumable (gummies) to raise LTV, and a subscription on top.",
+        "Run the same ad copy across several Facebook pages to scale spend and spread risk.",
+        "Watch out: the ads make health claims (testosterone, circulation, “3,000 gauss”) that Meta can reject. Copy the structure, not the claims."
+      ]
+    },
+    {
+      "name": "Rivanta",
+      "domain": "tryrivanta.com",
+      "channel": "Meta-driven",
+      "niche": "Emergency tech",
+      "launched": "1 Mar 2026",
+      "origin": "US (Vitra Brands LLC, WY)",
+      "market": "US 100% of traffic",
+      "kpis": [
+        {
+          "value": "$3.30M",
+          "label": "Est. revenue, last 30d",
+          "note": "range $1.10M–$5.50M"
+        },
+        {
+          "value": "60k",
+          "label": "Units sold, last 30d",
+          "note": "≈ 25–35k orders*"
+        },
+        {
+          "value": "209k",
+          "label": "Monthly visits (Sep)",
+          "note": "×9 vs. August"
+        },
+        {
+          "value": "3,162",
+          "label": "Active Meta ads",
+          "note": "9 linked FB pages"
+        }
+      ],
+      "traffic": {
+        "labels": [
+          "Apr",
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep"
+        ],
+        "values": [
+          1915,
+          6119,
+          11606,
+          11764,
+          23314,
+          208887
+        ]
+      },
+      "branding": [
+        {
+          "label": "Identity",
+          "text": "Plain <b>Rivanta</b> wordmark with a utility/tactical feel: product specs as design elements (“10,000 mAh · 3 devices at once · IPX4”)."
+        },
+        {
+          "label": "Voice",
+          "text": "Urgency and safety: hero line <i>“When the grid goes dark – stay powered.”</i> Badge “#1 Emergency Power Bank”."
+        },
+        {
+          "label": "Conversion stack",
+          "text": "Single-product store (2 SKUs). Huge social proof (“4.8/5 from 137,135 reviews”), 30-day money-back guarantee, “Fall sale up to 60% off” with countdown, bundle “buy 3 get 2 free”, $4.99 shipping protection."
+        }
+      ],
+      "best_sellers": [
+        {
+          "name": "Emergency Solar Power Bank",
+          "price": "$49.99"
+        },
+        {
+          "name": "Survival Seed Vault (30-day refill subscription)",
+          "price": "$59.99"
+        }
+      ],
+      "ads": [
+        "<b>Meta</b> only for prospecting: 3,162 active ads (up from ~1,000 in early September), main page “Rivanta Power” has 77k likes and 2,156 live ads, plus an advertorial page “Homefront America” (1,170 live ads).",
+        "Funnel: ads → presell pages on a sub-domain (go.tryrivanta.com) → product page. Long-form native copy (a librarian story, “4 signs” listicles) and founder-style videos.",
+        "<b>Google Ads</b>: 109 live ads, so search catches the demand created on Meta. No TikTok presence detected."
+      ],
+      "lessons": [
+        "A single problem-solving product can do 7 figures/month if the angle (blackout fear) is strong and the funnel uses presell pages.",
+        "Separate “advertorial” Facebook pages let them test editorial angles without touching the brand page.",
+        "Big risk: several ads rely on unverified geopolitical claims (“FBI sleeper cells”, “officials stockpiling”). Meta penalises that kind of misinformation, so avoid copying it."
+      ]
+    },
+    {
+      "name": "Emma Olivia Boutique",
+      "domain": "emmaolivia-boutique.com",
+      "channel": "Pinterest-driven",
+      "niche": "Women's fashion 50+",
+      "launched": "21 Sep 2025",
+      "origin": "NL operator, US-facing",
+      "market": "US 100% of traffic",
+      "kpis": [
+        {
+          "value": "$182k",
+          "label": "Est. revenue, last 30d",
+          "note": "range $137k–$226k"
+        },
+        {
+          "value": "3.6k",
+          "label": "Units sold, last 30d",
+          "note": "≈ 3k orders*"
+        },
+        {
+          "value": "275k",
+          "label": "Monthly visits (Sep)",
+          "note": "+235% MoM (Similarweb)"
+        },
+        {
+          "value": "0",
+          "label": "Active Meta ads",
+          "note": "yet 45% of traffic is paid social"
+        }
+      ],
+      "traffic": {
+        "labels": [
+          "Apr",
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep"
+        ],
+        "values": [
+          37152,
+          74041,
+          116960,
+          117987,
+          82123,
+          275049
+        ]
+      },
+      "branding": [
+        {
+          "label": "Identity",
+          "text": "“Boutique” positioning with first-name product titles (“Caitlin | Stylish Striped Button Pants”, “Mila | Casual Shirt Dress”) that feel like a curated small shop. Catalogue of 6,100+ products. The site blocks crawlers, so colours and fonts were not verified this week."
+        },
+        {
+          "label": "Audience",
+          "text": "80% women, largest age group 55–64 (Similarweb). Comfort angle: orthopedic loafers and heels next to statement tops and dresses."
+        },
+        {
+          "label": "Price architecture",
+          "text": "Tight $39.95–$69.95 band, every price ending in .95. Average ≈ $51 per unit."
+        }
+      ],
+      "best_sellers": [
+        {
+          "name": "Caitlin | Striped Button Pants",
+          "price": "$49.95"
+        },
+        {
+          "name": "Zaira | Artistic Cat Statement Top",
+          "price": "$59.95"
+        },
+        {
+          "name": "Fluorescent Loafer, metal detail",
+          "price": "$69.95"
+        },
+        {
+          "name": "Mila | Casual Shirt Dress",
+          "price": "$59.95"
+        },
+        {
+          "name": "Jazrielle | Orthopedic Heels",
+          "price": "$39.95"
+        },
+        {
+          "name": "Susana | Orthopedic Loafers",
+          "price": "$59.95"
+        }
+      ],
+      "ads": [
+        "<b>Pinterest</b>: the <b>Pinterest Tag</b> is installed and Pinterest is the top social referrer (Similarweb). Paid Social is the #1 channel at 45% of visits, while Trendtrack shows <b>zero</b> Meta ads in the last 6 months. That paid-social traffic is therefore very likely Pinterest Ads.",
+        "<b>Google Ads</b>: 45 live ads (Search 53, Shopping 10, YouTube 8 placements). Paid Search is the #2 channel, 85% of their search keywords are paid.",
+        "No email flows detected by Trendtrack and no TikTok presence."
+      ],
+      "lessons": [
+        "Pinterest + Google Shopping is a real alternative to Meta for women 45+, an audience that plans purchases on Pinterest.",
+        "Product names with a first name + benefit work as Pin titles and as search keywords at the same time.",
+        "Caveat: Similarweb's free tier does not give the exact Pinterest %, so the Pinterest share is an informed inference, not a measured number."
+      ]
+    }
+  ],
+  "pinterest_updates": [
+    {
+      "title": "Visual Search Ads + Performance+ tools",
+      "date": "17 Sep 2026",
+      "what": "Sponsored results now appear in visual search and on Pin close-ups, using your existing product creative (no new assets). Beta in all ad markets. Performance+ adds <b>Priority Products</b> and self-serve <b>A/B testing</b>.",
+      "why": "Best new placement for a small Shopify brand: reuses your catalogue, catches high-intent shoppers.",
+      "source": "newsroom.pinterest.com · digiday.com"
+    },
+    {
+      "title": "Programmatic Deals via Magnite",
+      "date": "26 Oct 2026",
+      "what": "Pinterest display and video inventory is now buyable through Yahoo DSP, Amazon DSP and Google DV360 (North America, LatAm, APAC). Requires a Pinterest sales rep.",
+      "why": "Enterprise only for now, but it signals more competition for Pinterest inventory in Q4.",
+      "source": "socialmediatoday.com"
+    },
+    {
+      "title": "Performance+ predictive optimisation, objective renaming",
+      "date": "Sep 2026",
+      "what": "Listed in Pinterest's September updates; details not verified this week.",
+      "why": "Check your campaign objectives in Ads Manager before BFCM.",
+      "source": "socialmediatoday.com"
+    }
+  ],
+  "other_updates": [
+    {
+      "platform": "Meta",
+      "title": "New Commercial & Self-Serve Ad Terms (effective 30 Oct, one source says delayed to 20 Nov)",
+      "what": "Advertising counts as acceptance. Meta may crawl sites linked to your products and use content for its AI; you are responsible for changes made by Meta's automation. Check robots.txt."
+    },
+    {
+      "platform": "Meta",
+      "title": "Product browsing added to existing ads (from 28 Oct)",
+      "what": "Clicks can open a catalogue view instead of your offer page. Turn it off per ad: Advantage+ creative → Personalized destinations → Product browsing."
+    },
+    {
+      "platform": "Meta",
+      "title": "Ads linking to TikTok blocked in US & Canada (announced 8 Oct)",
+      "what": "Ads that send people to a TikTok profile or TikTok Shop no longer run in those markets."
+    },
+    {
+      "platform": "Meta",
+      "title": "Advantage+ creative: static-to-video GA, image-to-video beta (6 Oct)",
+      "what": "Turn product photos into short videos inside Ads Manager."
+    },
+    {
+      "platform": "TikTok",
+      "title": "AI & shopping package (5 Oct)",
+      "what": "Buy Direct checkout from For You, Smart+ Search Ads, GMV Max now accounts for affiliate commissions and coupons, TikTok Ad Network for US (~400k apps). Dates per market not given."
+    },
+    {
+      "platform": "Google",
+      "title": "Retention & High-Value modes for Shopping/PMax (late Oct)",
+      "what": "Bid more for new or high-value customers; re-engagement and loyalty modes rolling out."
+    },
+    {
+      "platform": "Google",
+      "title": "Smart Bidding learning capped at 7 days",
+      "what": "Budget, target and creative edits no longer restart learning."
+    }
+  ],
+  "sources": "newsroom.pinterest.com (17 Sep 2026), digiday.com, socialmediatoday.com (26 Oct 2026), commonthreadco.com, zainismail.pk (22 Oct 2026), gradezilla.org, ignitevisibility.com. Several Meta/TikTok/Google items come from secondary roundups."
+}

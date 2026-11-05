@@ -1,0 +1,354 @@
+{
+  "edition": 2,
+  "date": "2026-11-05",
+  "week_label": "Week of 5 November 2026",
+  "headline": "3 young stores to learn from",
+  "intro": "Three Shopify stores launched in the last 12 months, all selling into English-speaking markets, with three very different engines: a <b>personalised golf glove</b> scaled with story-driven Meta ads, a <b>$19.99 shapewear</b> entry product from a Hong Kong operator, and a <b>craft-kit</b> brand growing with no Meta ads at all, on Pinterest and organic TikTok.",
+  "key_takeaway": "Pinterest ad prices fell 4% year on year in Q3 while impressions grew 17%: inventory is getting cheaper just before Black Friday, so this is a good window to test it.",
+  "method": "Trend Track filters: store created after Nov 2025; main traffic market US, UK, CA or AU; traffic growth above 30–40% over 90 days; tracked revenue above $40k/month; stores from edition 1 excluded. The Pinterest candidate also had to carry the <b>Pinterest Tag</b> with few or no Meta ads. This week Similarweb and the store homepages could not be reached from our research environment, so branding is read from product data and ads, and the Pinterest share is an <b>inference</b>, not a measured figure. Revenue and units are Trend Track estimates (ranges shown). *Orders are estimated from units and bundle offers.",
+  "actions": [
+    "Test a <b>Pinterest catalogue campaign</b> before BFCM: Q3 ad pricing was down 4% YoY, so your CPMs should be cheaper than last year.",
+    "Steal the GentGolfers <b>personalisation</b> lever: initials, names or dates on a hero product justify a higher price and make it a gift.",
+    "Copy Slimetica's <b>low-ticket entry product</b> ($19.99) plus matching sets to lift basket value, but stay away from slimming claims.",
+    "Like Pressed + Placed, post <b>process videos</b> (\"watch it come together\") on TikTok and Pinterest: one asset feeds both channels for free."
+  ],
+  "stores": [
+    {
+      "name": "GentGolfers",
+      "domain": "gentgolfers.com",
+      "channel": "Meta-driven",
+      "niche": "Personalised golf gear",
+      "launched": "7 Nov 2025",
+      "origin": "Lithuania (Shopify Plus)",
+      "market": "US 58% of traffic",
+      "kpis": [
+        {
+          "value": "$1.58M",
+          "label": "Est. revenue, last 30d",
+          "note": "range $0.56M–$2.60M"
+        },
+        {
+          "value": "34.7k",
+          "label": "Units sold, last 30d",
+          "note": "≈ 13–18k orders*"
+        },
+        {
+          "value": "14.3k",
+          "label": "Monthly visits (Sep)",
+          "note": "likely under-counted, see below"
+        },
+        {
+          "value": "1,309",
+          "label": "Active Meta ads",
+          "note": "5 linked FB pages"
+        }
+      ],
+      "traffic": {
+        "labels": [
+          "Apr",
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep"
+        ],
+        "values": [
+          0,
+          0,
+          471,
+          10240,
+          1322,
+          14269
+        ]
+      },
+      "branding": [
+        {
+          "label": "Identity",
+          "text": "<b>GentGolfers™</b>: “old money” gentleman positioning. The product is one idea: a full-grain <b>cabretta leather</b> glove with your <b>initials hot-stamped in gold foil</b>."
+        },
+        {
+          "label": "Voice",
+          "text": "Quiet luxury in ads: <i>“The detail that separates men who have taste from men who just have money.”</i> Gift angle on the landing page <i>“for the gentleman that has everything”</i>."
+        },
+        {
+          "label": "Conversion stack",
+          "text": "Hero glove at $49, a <b>3-glove bundle at $147</b>, low-cost add-ons (golf towel $29, $10 e-guide, $20 gift card), 60-day money-back guarantee, BOGO and “free glove” email offers. Homepage not reachable this week, so colours and fonts were not checked."
+        }
+      ],
+      "best_sellers": [
+        {
+          "name": "Personalized Golf Glove (initials)",
+          "price": "$49.00"
+        },
+        {
+          "name": "3x Golf Gloves bundle",
+          "price": "$147.00"
+        },
+        {
+          "name": "Golf Towel with Magnetic Hanger",
+          "price": "$29.00"
+        },
+        {
+          "name": "$20 Gift card",
+          "price": "$20.00"
+        },
+        {
+          "name": "The Gentleman's Guide to a Refined Game (e-book)",
+          "price": "$10.00"
+        }
+      ],
+      "ads": [
+        "<b>Meta</b> is the engine: ~1,300 active ads (from ~640 mid-September to a 2,700 peak late October), on the brand page (946 likes, 573k total reach) and on <b>personal-name pages</b> like “Robert Brown” (960 live ads) that read as customer stories.",
+        "Delivery: US 35%, CA 30%, AU 21%, NZ 14%. Ads land on presell pages (“9 gloves, nearly $300”, “for the gentleman that has everything”).",
+        "Winning formats: very long first-person stories (a billionaire golf partner) and a <b>“golf gloves ranked best to worst”</b> listicle against FootJoy, Titleist and Nike.",
+        "<b>Google Ads</b>: 1 search ad. <b>Email</b>: ~1/week (Halloween sale, BOGO). No TikTok."
+      ],
+      "lessons": [
+        "Personalisation turns a $12 commodity into a $49 gift: a strong angle for Q4.",
+        "Story ads on separate personal-name pages let them test many narratives without touching the brand page.",
+        "Watch out: invented personas, heavy profanity and made-up scores for named competitors break Meta's policies and invite legal action. Copy the gift angle, not the tactics. The 14k visits look far too low for $1.6M of sales: treat with caution."
+      ]
+    },
+    {
+      "name": "Slimetica",
+      "domain": "slimetica.com",
+      "channel": "Meta-driven",
+      "niche": "Women's shapewear & sets",
+      "launched": "25 Nov 2025",
+      "origin": "Hong Kong operator, US-facing",
+      "market": "US 100% of traffic",
+      "kpis": [
+        {
+          "value": "$1.26M",
+          "label": "Est. revenue, last 30d",
+          "note": "range $0.45M–$2.08M"
+        },
+        {
+          "value": "62.6k",
+          "label": "Units sold, last 30d",
+          "note": "≈ 20–30k orders*"
+        },
+        {
+          "value": "494k",
+          "label": "Monthly visits (Sep)",
+          "note": "×8.8 vs. August"
+        },
+        {
+          "value": "104",
+          "label": "Active Meta ads",
+          "note": "1 FB page, 83 likes"
+        }
+      ],
+      "traffic": {
+        "labels": [
+          "Apr",
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep"
+        ],
+        "values": [
+          234862,
+          131543,
+          43740,
+          26481,
+          56188,
+          493917
+        ]
+      },
+      "branding": [
+        {
+          "label": "Identity",
+          "text": "Product-led store with a 490-product catalogue: shapewear, matching sets and knitwear, all titled <i>“Slimetica | …”</i>. Meta description pitches <i>“ultra-soft loungewear, elegant matching sets”</i>."
+        },
+        {
+          "label": "Audience",
+          "text": "Women 25–65 (Meta targeting). Comfort first: <i>“gentle control, no tight squeeze”</i>, soft cotton, “all-day wear”."
+        },
+        {
+          "label": "Price architecture",
+          "text": "<b>$19.99 entry products</b> (shaping briefs) then $38.99–$59.99 sets to lift the basket. Average ≈ $20 per unit, so most orders are multi-packs. Free shipping. No email flows detected."
+        }
+      ],
+      "best_sellers": [
+        {
+          "name": "Airflow Cross-Compression Shaping Panty",
+          "price": "$19.99"
+        },
+        {
+          "name": "High-Waisted Shaping Brief, Tummy Control",
+          "price": "$19.99"
+        },
+        {
+          "name": "Women's Three-Piece Set",
+          "price": "$59.99"
+        },
+        {
+          "name": "V-Neck Tank Top & Pants Set",
+          "price": "$38.99"
+        },
+        {
+          "name": "Soft-Knit Sweater Blazer",
+          "price": "$46.95"
+        }
+      ],
+      "ads": [
+        "<b>Meta</b>: a single page with 104 live ads (up from 9 in mid-September), targeting US, CA, AU plus FR/DE. Meta only discloses reach for EU viewers, so the US spend is invisible: small numbers here do not mean small budgets.",
+        "Top creative: a UGC voice-over video (<i>“girl, you need to see these high-waisted shaping panties”</i>) sending to a best-seller collection, 63 days live. Simple image ads push the “thigh slimmer” pants with UTM tags.",
+        "<b>Google Ads</b>: none. <b>TikTok</b>: handle reserved (22 followers, no posts), so no organic TikTok engine.",
+        "Traffic swings (235k in April, 26k in July, 494k in September) look like on/off campaign bursts rather than steady brand growth."
+      ],
+      "lessons": [
+        "A $19.99 problem-solving product is an easy first purchase; sets and multi-packs carry the margin.",
+        "UGC voice-over on a plain product video is cheap to produce and still the top performer here.",
+        "Risk: “slimming” and “butt-lifting” wording can trigger Meta's body-image rules. Talk about comfort and fit, never weight loss or before/after."
+      ]
+    },
+    {
+      "name": "Pressed + Placed",
+      "domain": "pressedandplaced.com",
+      "channel": "Pinterest-driven",
+      "niche": "Craft kits / wall art",
+      "launched": "10 Dec 2025",
+      "origin": "US (Shopify Plus)",
+      "market": "US 84% · UK 16% of traffic",
+      "kpis": [
+        {
+          "value": "$89k",
+          "label": "Est. revenue, last 30d",
+          "note": "range $66k–$112k"
+        },
+        {
+          "value": "1.3k",
+          "label": "Units sold, last 30d",
+          "note": "≈ 1.1–1.3k orders*"
+        },
+        {
+          "value": "39.4k",
+          "label": "Monthly visits (Sep)",
+          "note": "×7 since April"
+        },
+        {
+          "value": "0",
+          "label": "Active Meta ads",
+          "note": "1 ad ever (June, 13 days)"
+        }
+      ],
+      "traffic": {
+        "labels": [
+          "Apr",
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep"
+        ],
+        "values": [
+          5615,
+          20084,
+          24109,
+          38171,
+          38886,
+          39408
+        ]
+      },
+      "branding": [
+        {
+          "label": "Identity",
+          "text": "Cosy, hobby-first brand: craft kits where <i>“tiny gems turn into sparkling wall art”</i>. Products are named like paintings with a <b>“Hand Rendered”</b> tag (“A Cottage Morning”, “Ghost Brew”)."
+        },
+        {
+          "label": "Promise",
+          "text": "Relaxation, not decoration: <i>“Your new favorite relaxing hobby”</i>, <i>“a cozy craft kit made for relaxing creative time”</i>. Seasonal designs (Halloween, cottagecore, under the sea)."
+        },
+        {
+          "label": "Price architecture",
+          "text": "516 designs from $38.99 to $92.99, average ≈ $68 per unit. Bigger, more detailed scenes cost more, a natural upsell path."
+        }
+      ],
+      "best_sellers": [
+        {
+          "name": "Fresh From the Oven, Hand Rendered",
+          "price": "$43.99"
+        },
+        {
+          "name": "Under the Sea, Hand Rendered",
+          "price": "$69.99"
+        },
+        {
+          "name": "Ghost Brew, Hand Rendered",
+          "price": "$84.99"
+        },
+        {
+          "name": "A Cottage Morning, Hand Rendered",
+          "price": "$92.99"
+        },
+        {
+          "name": "Moonlight Lantern Garden",
+          "price": "$59.99"
+        },
+        {
+          "name": "Swan Ducklings",
+          "price": "$38.99"
+        }
+      ],
+      "ads": [
+        "<b>Pinterest</b>: the <b>Pinterest Tag</b> is installed and Meta is switched off (one 13-day test in June, nothing since). Visual, seasonal wall-art designs are classic Pinterest content. Pinterest as the main paid channel is an <b>inference</b>: Similarweb could not be reached this week to confirm the social split.",
+        "<b>TikTok organic</b>: @pressedandplaced has 21.1k followers, 514 posts, 2.47M views and 150k likes, with no TikTok ads. Satisfying “placing the gems” process videos do the selling.",
+        "<b>Google Ads</b>: 2 live search ads (15 seen in total, mainly US). No email campaigns detected by Trend Track."
+      ],
+      "lessons": [
+        "Steady month-on-month growth without Meta: a visual product + Pinterest + organic TikTok can build a $1M/year run-rate.",
+        "A huge catalogue of named designs gives Pinterest endless fresh Pins and long-tail search terms.",
+        "Caveat: revenue is modest ($89k/month) and the Pinterest share is inferred from the tag, the missing Meta spend and the product type, not measured."
+      ]
+    }
+  ],
+  "pinterest_updates": [
+    {
+      "title": "Q3 results: ad prices down 4%, impressions up 17%",
+      "date": "29 Oct 2026",
+      "what": "Revenue $1.174B (+12%), 661M monthly users (+10%). Ad impressions grew 17% while <b>ad pricing fell 4%</b>. US & Canada brought $894M. Management pushed <b>Visual Search Ads</b> (still in beta) as the high-intent placement. Europe was hurt by cross-border sellers pulling back.",
+      "why": "More supply and lower prices mean cheaper CPMs for small Shopify brands going into Black Friday.",
+      "source": "Pinterest 8-K (sec.gov) · fool.com transcript · contentgrip.com"
+    },
+    {
+      "title": "Programmatic Deals now generally available",
+      "date": "2 Nov 2026",
+      "what": "After last week's Magnite news, Pinterest made Programmatic Deals GA in select markets: video and display inventory can be bought through DSPs such as Amazon DSP and Google DV360.",
+      "why": "Enterprise feature, but big brands buying Pinterest through DSPs adds competition in Q4. Lock in your BFCM campaigns early.",
+      "source": "newsroom.pinterest.com"
+    },
+    {
+      "title": "Performance+ for Shopify SMBs: one-click Shopping, new-customer goal",
+      "date": "date not verified",
+      "what": "Reported: a one-click <b>Performance+ Shopping</b> campaign for eligible Shopify merchants and a <b>New Customer Acquisition</b> option that excludes existing buyers (Pinterest cites +64% new-customer conversions in tests).",
+      "why": "If it shows in your Pinterest app for Shopify, it is the fastest way to launch a catalogue campaign. Check before relying on it.",
+      "source": "mediapost.com · community.pinterest.biz"
+    }
+  ],
+  "other_updates": [
+    {
+      "platform": "Meta",
+      "title": "Advantage+ creative enhancements on by default (from 30 Oct)",
+      "what": "Some enhancements, including <b>text improvements</b>, switch on automatically for new and existing campaigns; earlier opt-outs are kept. Review your ads so Meta's AI does not rewrite offers or claims."
+    },
+    {
+      "platform": "Meta",
+      "title": "Commercial Terms on AI creative: 20 Nov date, possibly paused",
+      "what": "New terms make advertisers solely responsible for AI-generated creative. One source reports Meta paused them after EU and UK regulator questions; not confirmed."
+    },
+    {
+      "platform": "Google",
+      "title": "Promotion Mode for Performance Max: retail in November",
+      "what": "Google Ads Help says the retail version is “available in November 2026” to adjust Smart Bidding during short sales (reported by Search Engine Roundtable on 4 Nov). Useful for BFCM: 27 to 30 November."
+    },
+    {
+      "platform": "TikTok",
+      "title": "No new ad feature confirmed this week",
+      "what": "Last confirmed package is the 5 October AI & shopping update (Buy Direct, Smart+ Search Ads, GMV Max). Nothing new found for 29 Oct–5 Nov."
+    }
+  ],
+  "sources": "Trend Track (shops, sales tracker, Meta and Google ad libraries, TikTok profiles, 5 Nov 2026); sec.gov Pinterest Q3 2026 8-K (29 Oct 2026); fool.com Q3 transcript (2 Nov 2026); contentgrip.com; newsroom.pinterest.com (2 Nov 2026); mediapost.com; community.pinterest.biz; oligamy.marketing (3 Nov 2026); socialbee.com; support.google.com; digitalapplied.com. Meta and Google items come partly from secondary roundups."
+}

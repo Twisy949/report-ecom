@@ -1,0 +1,341 @@
+{
+  "edition": 3,
+  "date": "2026-11-12",
+  "week_label": "Week of 12 November 2026",
+  "headline": "3 young stores to learn from",
+  "intro": "Three Shopify stores launched in the last 12 months, selling into English-speaking markets: a <b>titanium cookware</b> brand scaled on Meta, Google and creator pages, a <b>personalised-gift</b> machine with thousands of niche products, and a <b>curated weekly-drop</b> store with no Meta, Google or TikTok ads, where Pinterest leads social traffic.",
+  "key_takeaway": "Pinterest's new ad rules apply from today, 12 November: products misrepresented with synthetic or manipulated media are now banned. Check your AI-made Pins before Black Friday.",
+  "method": "Trend Track filters: store created after 12 Nov 2025; main market US, UK, CA or AU; traffic growth above 30–40%; revenue above $40k/month; earlier stores excluded. The Pinterest pick carries the <b>Pinterest Tag</b>, has no Meta ads and shows Pinterest as top social source on Similarweb; its Pinterest share of paid social is an <b>inference</b>. October traffic is Trend Track's latest estimate; revenue and units are estimates (ranges shown). *Orders estimated from units and bundles.",
+  "actions": [
+    "<b>Audit your Pinterest creatives</b> against the 12 November rules: no AI images that change what the product looks like.",
+    "Steal GiftSoul's <b>niche × name</b> formula: one template, one identity per audience, the buyer's name on it.",
+    "Try Rilvero's <b>weekly drop</b> (“new finds every Thursday”): a fresh reason to come back on Pinterest and email.",
+    "On Meta, turn off <b>detected offers</b> in Commerce Manager: Meta's AI added discounts advertisers had not approved."
+  ],
+  "stores": [
+    {
+      "name": "Okura Cookware",
+      "domain": "okuracookware.com",
+      "channel": "Meta + Google",
+      "niche": "Titanium cookware",
+      "launched": "10 Dec 2025",
+      "origin": "US entity (Okura Group LLC, Wyoming)",
+      "market": "US 78% · AU 7% · GB 5% of traffic",
+      "kpis": [
+        {
+          "value": "$3.95M",
+          "label": "Est. revenue, last 30d",
+          "note": "range $2.09M–$5.81M"
+        },
+        {
+          "value": "30.2k",
+          "label": "Units sold, last 30d",
+          "note": "≈ 13–20k orders*"
+        },
+        {
+          "value": "608k",
+          "label": "Monthly visits (Oct)",
+          "note": "−37% after a 961k September"
+        },
+        {
+          "value": "648",
+          "label": "Active Meta ads",
+          "note": "100 linked pages · 212 Google ads"
+        }
+      ],
+      "traffic": {
+        "labels": [
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep",
+          "Oct"
+        ],
+        "values": [
+          123032,
+          171669,
+          317222,
+          539525,
+          961060,
+          607650
+        ]
+      },
+      "branding": [
+        {
+          "label": "Identity",
+          "text": "Premium, craft positioning: <i>“The last pan you'll ever buy”</i>. Hand-hammered <b>pure titanium</b> pans, PFAS-free, 25-year warranty, lab certificate (Eurofins) linked on the homepage."
+        },
+        {
+          "label": "Offer",
+          "text": "Permanent “up to 70% off” sale: hero pan at <b>$94.95</b> shown against $320, 3-pan set $269.95, full kitchen set $879.95. Stacked codes (LABOR25, LIMITED20), free gifts worth $50, a <b>free e-book</b> added to orders, “limited edition” gold-handle pan."
+        },
+        {
+          "label": "Trust stack",
+          "text": "Trustpilot “Excellent”, Loox reviews (15k+), TV cooking-show logos, comparison table against non-stick, steel and cast iron. The story is inconsistent: ads say a <i>“Japanese family business, 100 years”</i>, the About page says <i>“Est. 2018”</i>."
+        }
+      ],
+      "best_sellers": [
+        {
+          "name": "Mastering Titanium Cookware e-book (free)",
+          "price": "$0.00"
+        },
+        {
+          "name": "Hammered Titanium Pan",
+          "price": "$94.95"
+        },
+        {
+          "name": "Hammered Titanium Pan, Limited Edition",
+          "price": "$103.95"
+        },
+        {
+          "name": "Hammered Titanium Wok Pan, flat base",
+          "price": "$107.95"
+        },
+        {
+          "name": "Hammered Titanium Pan, 3-piece set",
+          "price": "$269.95"
+        }
+      ],
+      "ads": [
+        "<b>Meta</b>: ~650 live ads (278 in mid-September, peak 978 late October), from the brand page (23.7k likes, 8.9M total reach) and about <b>100 linked pages</b>, including creator and partnership ads. Top angles: “my third non-stick pan peeled”, “I want my money back, they put it on sale”, PFAS fear, limited stock.",
+        "Delivery is wide: US, CA, UK, AU, NZ plus most of the EU, Gulf and Japan. Landing pages are a <b>“restock sale”</b> collection and an editorial advertorial.",
+        "<b>Google Ads</b>: 212 live ads (Search first, then Display, YouTube, Shopping), 112k reported reach. Similarweb (Sep): paid social is the #1 desktop channel (32%), then display and paid search. TikTok: 808 Spark-style ads tracked, tiny organic account (598 followers)."
+      ],
+      "lessons": [
+        "A “last pan you'll ever buy” product justifies a $95 ticket, and sets push the basket to $270–$880.",
+        "Running ads through dozens of creator pages multiplies angles without wearing out the brand page.",
+        "Watch out: a crossed-out $320–$350 price that is never charged, unverified chef endorsements, an origin story that changes between ads and site, and “carcinogenic / poisons your food” claims about rivals are classic grounds for Meta rejections and consumer-protection complaints. Copy the product and the bundles, not the claims."
+      ]
+    },
+    {
+      "name": "GiftSoul",
+      "domain": "giftsoul.co",
+      "channel": "Meta-driven",
+      "niche": "Personalised gifts",
+      "launched": "8 Apr 2026",
+      "origin": "US (Wowtopic LLC, Texas)",
+      "market": "US 79% · UK 15% of traffic",
+      "kpis": [
+        {
+          "value": "$4.72M",
+          "label": "Est. revenue, last 30d",
+          "note": "range $2.01M–$7.42M"
+        },
+        {
+          "value": "210k",
+          "label": "Units sold, last 30d",
+          "note": "≈ 110–150k orders*"
+        },
+        {
+          "value": "519k",
+          "label": "Monthly visits (Oct)",
+          "note": "×2.5 vs. September"
+        },
+        {
+          "value": "932",
+          "label": "Active Meta ads",
+          "note": "5 linked pages · 144 Google ads"
+        }
+      ],
+      "traffic": {
+        "labels": [
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep",
+          "Oct"
+        ],
+        "values": [
+          0,
+          358,
+          39047,
+          72937,
+          204401,
+          518675
+        ]
+      },
+      "branding": [
+        {
+          "label": "Identity",
+          "text": "<i>“Personalized Gifts That Tell Your Story”</i>, <i>“Every meaningful gift starts with a story”</i>. Warm, family-first tone, organised by relationship: family, couples, pet lovers, new homes, grandparents, kids."
+        },
+        {
+          "label": "Catalogue",
+          "text": "<b>5,247 products</b>, almost all print-on-demand templates: socks, mugs, metal signs, hoodies, ornaments, gardening gloves, each written for one identity (<i>“Books Before People”</i>, <i>“A Grandmother Is Both A Sword And A Shield”</i>) with the buyer's name added."
+        },
+        {
+          "label": "Price architecture",
+          "text": "Almost everything at <b>$19.99–$24.99</b>, gift packaging at $3.99, “Buy 2+ get 10% off” (code GS10). Christmas heroes on the homepage now: ornaments and family gifts. Trustpilot “Excellent”, 1,130 reviews."
+        }
+      ],
+      "best_sellers": [
+        {
+          "name": "Personalized Crew Socks, book lovers",
+          "price": "$22.99"
+        },
+        {
+          "name": "Family Personalized Custom Mug (Dad)",
+          "price": "$24.99"
+        },
+        {
+          "name": "Grandma Personalized T-shirt / Hoodie",
+          "price": "$24.99"
+        },
+        {
+          "name": "Personalized Passport Cover",
+          "price": "$23.99"
+        },
+        {
+          "name": "Gift packaging for socks",
+          "price": "$3.99"
+        }
+      ],
+      "ads": [
+        "<b>Meta</b> is the engine: ~930 live ads on 5 pages (main page 21k likes, 58M reach in 30 days). The top ad, book-lover socks, has <b>14.3M reach</b> (≈ $129k est. spend). Mostly women 25–65 in US, UK, CA, AU.",
+        "Format: short product videos on a trending song, no voice-over, one niche per ad (readers, gardeners, couples' first Christmas, kid gamers) and a short-link straight to the product page.",
+        "<b>Google Ads</b>: 144 live ads across Shopping, YouTube and Search. <b>TikTok</b>: the linked account is <i>@pawfecthouse_official</i> (66.5k followers, 237M views, 6.5k ads tracked), which suggests the same operator runs a sister brand (inference). Similarweb (Aug): paid social is the #1 desktop channel (40%)."
+      ],
+      "lessons": [
+        "Personalisation again (like GentGolfers in edition 2), but at scale: one template × thousands of niche phrases = thousands of ads that each feel made for one person.",
+        "A $20–25 ticket with a name on it is an easy impulse gift in Q4: their traffic grew ×2.5 in October.",
+        "Risk: trending commercial songs in ads need licences, and print-on-demand quality and delivery times drive refunds in December. Plan your shipping cut-off dates."
+      ]
+    },
+    {
+      "name": "Rilvero",
+      "domain": "rilvero.com",
+      "channel": "Pinterest-driven",
+      "niche": "Curated beauty & shapewear finds",
+      "launched": "13 Apr 2026",
+      "origin": "Canada operator, US-facing",
+      "market": "US 100% of traffic",
+      "kpis": [
+        {
+          "value": "$79k",
+          "label": "Est. revenue, last 30d",
+          "note": "range $28k–$130k"
+        },
+        {
+          "value": "3.8k",
+          "label": "Units sold, last 30d",
+          "note": "≈ 1.7–2.5k orders*"
+        },
+        {
+          "value": "57.6k",
+          "label": "Monthly visits (Oct)",
+          "note": "+67% vs. September"
+        },
+        {
+          "value": "0",
+          "label": "Active Meta ads",
+          "note": "none ever · no Google or TikTok ads"
+        }
+      ],
+      "traffic": {
+        "labels": [
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep",
+          "Oct"
+        ],
+        "values": [
+          0,
+          0,
+          0,
+          0,
+          34487,
+          57631
+        ]
+      },
+      "branding": [
+        {
+          "label": "Identity",
+          "text": "A curator, not a brand: <i>“We tested dozens. These made the cut.”</i> and <i>“Every week, we hunt down the best in skincare, beauty, wellness, fitness, and fashion.”</i> “Women Owned Business” badge."
+        },
+        {
+          "label": "Rhythm",
+          "text": "<b>“Curated weekly drops every Thursday”</b>: a tight 27-product catalogue of problem-solving items (brow press, invisible cinch bra, cooling pillow, bra inserts) that changes often."
+        },
+        {
+          "label": "Offer",
+          "text": "Single products at <b>$24.99–$39.99</b>, “Buy 1 Get 1 Free” Veterans Day sale, shipping protection $3.99, money-back promise and easy exchanges. Mixed signals: “4.4/5 from 1,475 reviews” next to “731+ happy customers”, and “free shipping on every order” next to a $35 threshold in the cart."
+        }
+      ],
+      "best_sellers": [
+        {
+          "name": "Brow Press",
+          "price": "$24.99"
+        },
+        {
+          "name": "Invisible Cinch Bra",
+          "price": "$24.99"
+        },
+        {
+          "name": "CloudChill Puff Pillow",
+          "price": "$39.99"
+        },
+        {
+          "name": "Lock-In Boost Inserts",
+          "price": "$29.99"
+        },
+        {
+          "name": "RootBlend Precision Compact",
+          "price": "$24.99"
+        }
+      ],
+      "ads": [
+        "<b>Pinterest</b>: the Pinterest Tag is installed and Similarweb (Oct) lists <b>Pinterest as the top social network</b>, with <b>paid social at 77.5%</b> of desktop visits. Trend Track finds no Meta ads ever, no Google ads and no TikTok account, so the paid social is most likely <b>Pinterest Ads</b>. This is an inference: Similarweb does not split paid social by network.",
+        "Email and organic social are the next channels on Similarweb (#2 and #3), which fits the weekly-drop model: Pins and emails announce each Thursday's finds.",
+        "Similarweb estimates 432k visits in October against 57.6k for Trend Track: treat the absolute traffic with caution, the direction (fast growth since September) is consistent."
+      ],
+      "lessons": [
+        "Pinterest users plan purchases: a “tested and approved” curation angle matches that mindset better than hard-sell ads.",
+        "Small, rotating catalogue + weekly drops = a constant stream of fresh Pins without building a big brand.",
+        "Caveat: revenue is modest (≈ $79k/month), the store is young and the review counts on the site contradict each other. Learn the model, not the numbers."
+      ]
+    }
+  ],
+  "pinterest_updates": [
+    {
+      "title": "New Advertising Guidelines in force: scams, synthetic media, pop-ups",
+      "date": "12 Nov 2026",
+      "what": "The revised guidelines (announced to advertisers by email on 4 Sep) add a <b>“Scams, deceptive goods and practices”</b> section with 13 bans, 5 of them new, including <b>products or offers misrepresented through synthetic media or manipulated content</b> and <b>fictitious products, services or shopfronts</b>. <b>Dismissible pop-ups on landing pages</b> become allowed.",
+      "why": "AI product photos that change what the customer receives can now get Pins and accounts rejected. On the plus side, your email-capture pop-up no longer breaks Pinterest landing-page rules.",
+      "source": "policy.pinterest.com · ecommerceparadise.com (10 Nov) · ppc.land (8 Nov)"
+    },
+    {
+      "title": "New Terms: GenAI misuse can cost the account, Pins train AI models",
+      "date": "12 Nov 2026",
+      "what": "The GenAI Acceptable Use Guidelines become part of the Terms of Service: abusing Pinterest's AI tools can lead to loss of GenAI access or account suspension. The Privacy Policy now says Pins, whatever their date, train Pinterest's <b>generative AI</b> models. Continued use counts as acceptance.",
+      "why": "If you use Pinterest's AI creative tools for ads, the business account itself is now at stake. Keep a human check on every generated Pin.",
+      "source": "ppc.land (8 Nov 2026) · ecommerceparadise.com (10 Nov 2026)"
+    }
+  ],
+  "other_updates": [
+    {
+      "platform": "Meta",
+      "title": "AI ads showed discounts advertisers had not approved (8 Nov)",
+      "what": "Meta's AI tools pulled website offers into ads even when promotions were off. Fix: change the Commerce Manager setting that lets Meta use detected offers in other campaigns."
+    },
+    {
+      "platform": "Meta",
+      "title": "Pixel: on-device conversion measurement from 12 Nov; AI-creative terms delayed",
+      "what": "“Measure conversions on customer devices” starts today and is on by default (secondary source). The new Commercial Terms on AI creative (planned 20 Nov) have been delayed, possibly indefinitely, after Norway and UK regulator action."
+    },
+    {
+      "platform": "TikTok",
+      "title": "Symphony AI video tools upgraded (9 Nov)",
+      "what": "Symphony Agent now uses the latest Seedance model: up to 50 reference files (was 9) and 30-second clips per prompt (was 15). Handy for quick product videos before BFCM."
+    },
+    {
+      "platform": "Google",
+      "title": "No verified Google Ads product change this week",
+      "what": "PPC Land reported on 10 Nov that Google lets AI agents write to Ads accounts; details not checked. Promotion Mode for Performance Max (retail, November) from last week remains the BFCM item to watch."
+    }
+  ],
+  "sources": "Trend Track (shops, sales tracker, Meta and Google ad libraries, TikTok profiles, 12 Nov 2026); similarweb.com public pages (Aug–Oct 2026); store homepages and About pages (12 Nov 2026); policy.pinterest.com; ppc.land (8 Nov 2026); ecommerceparadise.com (10 Nov 2026); socialmediatoday.com (2, 8 and 9 Nov 2026); admakeai.com (2 Nov 2026). Meta pixel item comes from a secondary roundup."
+}

@@ -1,0 +1,333 @@
+{
+  "edition": 4,
+  "date": "2026-11-19",
+  "week_label": "Week of 19 November 2026",
+  "headline": "3 young stores to learn from",
+  "intro": "Three Shopify stores launched in the last 12 months: a <b>one-product men's fragrance</b> brand scaled on Meta, a <b>grill-basket</b> brand re-pitched as a Black Friday gift, and a <b>women's general store</b> with no live Meta, Google or TikTok ads, where Pinterest leads social traffic.",
+  "key_takeaway": "Pinterest is renaming campaign objectives: <b>Sales</b> and <b>Leads</b> replace Catalog sales and Conversions; API-built campaigns must move by 1 Feb 2027.",
+  "method": "Trend Track: created after 19 Nov 2025; main market US, UK, CA or AU; traffic growth above 40% over 90 days; revenue above $40k/month; earlier stores excluded. The Pinterest pick has the <b>Pinterest Tag</b>, no live Meta ads and Pinterest as top social source on Similarweb (Pinterest share of paid social is an <b>inference</b>). Revenue, units and October traffic are estimates. *Orders estimated from units and bundles.",
+  "actions": [
+    "<b>Ask your Pinterest app or agency</b> when they move to the new Sales objective (deadline 1 Feb 2027).",
+    "Copy BRYN's <b>gift angle</b>: same product, re-pitched in Q4 as “the gift he'll use for life”.",
+    "Google Shopping: set <b>sale_price + effective date</b> for Black Friday to earn the “Deal ends” badge.",
+    "Meta: compare Ads Manager purchases with Shopify orders; <b>on-device measurement</b> is on since 12 Nov."
+  ],
+  "stores": [
+    {
+      "name": "ASCEND SKIN",
+      "domain": "myascendskin.com",
+      "channel": "Meta-driven",
+      "niche": "Men's body-butter cologne",
+      "launched": "27 Apr 2026",
+      "origin": "US entity (Ascend Skin LLC, Wyoming)",
+      "market": "US 92% · FR 8% of traffic",
+      "kpis": [
+        {
+          "value": "$3.70M",
+          "label": "Est. revenue, last 30d",
+          "note": "range $2.12M–$5.28M"
+        },
+        {
+          "value": "106k",
+          "label": "Units sold, last 30d",
+          "note": "≈ 25–35k orders*"
+        },
+        {
+          "value": "1.26M",
+          "label": "Monthly visits (Oct)",
+          "note": "×6.7 vs. September"
+        },
+        {
+          "value": "3,593",
+          "label": "Active Meta ads",
+          "note": "12 linked pages · 229 Google ads"
+        }
+      ],
+      "traffic": {
+        "labels": [
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep",
+          "Oct"
+        ],
+        "values": [
+          442,
+          18814,
+          24892,
+          26702,
+          186814,
+          1257159
+        ]
+      },
+      "branding": [
+        {
+          "label": "Identity",
+          "text": "One product: a 140 g shea <b>“body butter cologne”</b> with pheromones, in scents named Zeus, Apollon and Helios, each “inspired by” a $400 designer perfume. Hero: <i>“Pheromone body butter. Never go unnoticed again.”</i>"
+        },
+        {
+          "label": "Offer",
+          "text": "Jar at <b>$35</b> (shown against $60; the FAQ says $28). Bundles change by page: “Buy 3 get 2 free” on the homepage, “Buy 2 get 1 free” and “all 3 scents for $56” on the founder advertorial. Black Friday countdown banner."
+        },
+        {
+          "label": "Trust stack",
+          "text": "“4.8/5 from 60,000+ ratings” next to “150,000 men made the switch”, vegan and “dermatologist-verified” badges. Guarantee varies: 30-day, 90-day and “even if opened” on different pages, while the FAQ refuses opened jars."
+        }
+      ],
+      "best_sellers": [
+        {
+          "name": "Body Butter Cologne (single jar)",
+          "price": "$35.00"
+        },
+        {
+          "name": "Free Mystery Jar (bundle gift)",
+          "price": "$0 in bundle"
+        },
+        {
+          "name": "All 3 signature scents bundle",
+          "price": "$56.00"
+        },
+        {
+          "name": "Body Butter Cologne, 2nd listing (ad tests)",
+          "price": "$35.00"
+        }
+      ],
+      "ads": [
+        "<b>Meta</b>: ~3,600 live ads on 12 pages (main page 3.1M reach in 30 days), up from ~600 in September. Ads run in the US, CA, AU, NZ and most of the EU, with landing pages split across two domains (myascendskin.com and theascendskin.com).",
+        "Format: long <b>mini-drama</b> videos (2–5 min): a man ignored by his wife or at the gym, a stranger in Dubai reveals the “secret”, women suddenly notice him. Shorter cuts: “cologne vs. cologne” comparisons and “we made way too many jars, 75% off”.",
+        "<b>Google Ads</b>: 229 live ads, mostly YouTube/Display placements (“Other”), a few Search and Shopping. No TikTok account found."
+      ],
+      "lessons": [
+        "A new format, not a new product: a body butter sold as a cologne that “lasts 12 hours instead of 2” gives a $35 jar a clear reason to beat a $400 spray.",
+        "Story-led video ads (several minutes long) can scale on Meta when the hook is strong: watch-time is the filter, the offer comes only at the end.",
+        "Watch out: pheromone attraction promises, unsourced skin claims (“clinically proven” on melanin-rich skin), designer-perfume names, an unverifiable Shark Tank story and contradictory guarantees are exactly what gets ad accounts and Shopify stores flagged. Learn the format, not the claims."
+      ]
+    },
+    {
+      "name": "BRYN",
+      "domain": "bryngrill.com",
+      "channel": "Meta + Google",
+      "niche": "Grill baskets",
+      "launched": "1 Dec 2025",
+      "origin": "“Swedish brand”, US entity (House of Nordic LLC, Wyoming)",
+      "market": "US 49% · AU 41% · SE 10% of traffic",
+      "kpis": [
+        {
+          "value": "$4.54M",
+          "label": "Est. revenue, last 30d",
+          "note": "tracker range $3.0M–$4.1M, see note"
+        },
+        {
+          "value": "144k",
+          "label": "Units sold, last 30d",
+          "note": "≈ 60–80k orders*"
+        },
+        {
+          "value": "121k",
+          "label": "Monthly visits (Oct)",
+          "note": "×6.3 vs. September"
+        },
+        {
+          "value": "11.9k",
+          "label": "Active Meta ads",
+          "note": "32 linked pages · 91 Google ads"
+        }
+      ],
+      "traffic": {
+        "labels": [
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep",
+          "Oct"
+        ],
+        "values": [
+          0,
+          0,
+          2648,
+          4992,
+          19393,
+          121250
+        ]
+      },
+      "branding": [
+        {
+          "label": "Identity",
+          "text": "<i>“Built for better, easier grilling.”</i> Nordic story: a founder (“Anders”) who grew up grilling in Värmland, <i>“from a garage in Värmland to the world”</i>. Bare 304 stainless steel, wooden twist-off handle, dishwasher safe."
+        },
+        {
+          "label": "Offer",
+          "text": "Rolling Grill Basket <b>$37.99</b> (shown against $94.99), Flat Basket $39.99, Classic $37.99, Grill Spray $9.99 as the add-on. “VIP Black Friday sale, up to 60% off + free gifts”, and an “overstock flash sale” advertorial."
+        },
+        {
+          "label": "Trust stack",
+          "text": "<b>Lifetime guarantee</b> (“we'll replace it, no questions, for life”), “50K+ happy grillers”, free shipping. No star ratings or press logos. The discount varies between 40% and 60% depending on the page."
+        }
+      ],
+      "best_sellers": [
+        {
+          "name": "Rolling Grill Basket",
+          "price": "$37.49–$37.99"
+        },
+        {
+          "name": "Grill Spray (add-on)",
+          "price": "$9.99"
+        },
+        {
+          "name": "Flat Basket",
+          "price": "$39.99"
+        },
+        {
+          "name": "Classic Grill Basket",
+          "price": "$29.99–$37.99"
+        },
+        {
+          "name": "Shipping insurance",
+          "price": "$4.95"
+        }
+      ],
+      "ads": [
+        "<b>Meta</b>: ~11,900 live ads on 32 pages, mostly from the page <i>GrillMästaren</i> (11,000 live ads, 41.5M total reach), up from ~1,900 in September. Targeting: US, AU, CA, NZ, UK in similar shares.",
+        "Top angles: <b>“We owe you an apology… we lied”</b> (the “lie” is that the price could not drop: 1.19M reach), the <b>“founder overstock”</b> 60% off, creator UGC (“a one-pot wonder, barbecue edition”), and in November a <b>gift angle</b>: <i>“The gift he'll use for life”</i>.",
+        "<b>Google Ads</b>: 91 live ads (Search first, then Shopping and YouTube) in the same five markets. No TikTok account found. Note: the revenue tracker's point estimate sits above its own range; treat the figure as an order of magnitude."
+      ],
+      "lessons": [
+        "A small, visual problem (veggies falling through the grate) is easy to show in 3 seconds of video, and the product sells itself in the demo.",
+        "Smart seasonality: a summer product kept alive in November by re-pitching it as a gift for men, and by selling in Australia and New Zealand, where it is barbecue season.",
+        "Watch out: a “Swedish” story behind a Wyoming LLC, crossed-out prices up to $94.99, permanent “overstock” and “last time at 40% off” claims, and the “we lied” hook can trigger consumer-protection complaints. Keep the demo, drop the fake urgency."
+      ]
+    },
+    {
+      "name": "Thesbox",
+      "domain": "thesbox.com",
+      "channel": "Pinterest-driven",
+      "niche": "Women's general store",
+      "launched": "29 Jun 2026",
+      "origin": "US (Trend Track profile)",
+      "market": "US 97% · CA 3% of traffic",
+      "kpis": [
+        {
+          "value": "$210k",
+          "label": "Est. revenue, last 30d",
+          "note": "range $155k–$265k"
+        },
+        {
+          "value": "7.2k",
+          "label": "Units sold, last 30d",
+          "note": "≈ 4–6k orders*"
+        },
+        {
+          "value": "192k",
+          "label": "Monthly visits (Oct)",
+          "note": "−38% after a 309k September"
+        },
+        {
+          "value": "0",
+          "label": "Active Meta ads",
+          "note": "207 short tests · no Google or TikTok ads"
+        }
+      ],
+      "traffic": {
+        "labels": [
+          "May",
+          "Jun",
+          "Jul",
+          "Aug",
+          "Sep",
+          "Oct"
+        ],
+        "values": [
+          0,
+          0,
+          0,
+          17874,
+          309443,
+          191538
+        ]
+      },
+      "branding": [
+        {
+          "label": "Identity",
+          "text": "No real brand: a <b>534-product</b> store aimed at women 45+ (Similarweb: 70% female, top age group 55–64), selling <i>“easy-to-wear dresses, tops, sets”</i> per Similarweb's summary. The homepage blocks automated reading."
+        },
+        {
+          "label": "Catalogue",
+          "text": "Problem-solving gadgets next to clothing: heated root-lift hair clip, foot callus remover, highland-cow fabric-art kit, colour-changing foundation stick. Emoji-heavy titles, “50% OFF” banners."
+        },
+        {
+          "label": "Offer",
+          "text": "Products at <b>$19.99–$29.99</b>; ad landing pages stack “up to 76% off + buy 1 get 1, buy 3 get 3”."
+        }
+      ],
+      "best_sellers": [
+        {
+          "name": "Wireless Heated Root Lift Clip",
+          "price": "$29.99"
+        },
+        {
+          "name": "Dual-Sided Foot Callus Remover",
+          "price": "$19.99"
+        },
+        {
+          "name": "Birth Flower Highland Cow 3D Fabric Art Kit",
+          "price": "$24.99"
+        },
+        {
+          "name": "Colour Changing Foundation Stick (ad-tested)",
+          "price": "BOGO offer"
+        }
+      ],
+      "ads": [
+        "<b>Pinterest</b>: Pinterest Tag installed; Similarweb (Oct) lists <b>Pinterest as top social network</b> and <b>paid social at 87.9%</b> of desktop visits. With no live Meta, Google or TikTok ads, the paid social is most likely <b>Pinterest Ads</b> (inference: Similarweb does not split by network).",
+        "Meta was a test bed: 207 ads in Sep–Oct, each live 0–3 days, <b>747 people reached in total</b> (women 25–65).",
+        "Trend Track and Similarweb both show a 38% drop in October after the September spike."
+      ],
+      "lessons": [
+        "Pinterest's older female audience fits “fix-it” beauty gadgets and craft kits: products people save before buying.",
+        "Cheap Meta tests to pick products, then spend where the audience converts.",
+        "Caveat: no brand, stacked discounts, falling October traffic. Learn the channel fit, not the store."
+      ]
+    }
+  ],
+  "pinterest_updates": [
+    {
+      "title": "New campaign objectives: Sales and Leads replace Catalog sales and Conversions",
+      "date": "18 Nov 2026",
+      "what": "Pinterest's November developer newsletter adds <b>SALES</b> and <b>LEADS</b> as campaign objectives and marks <b>CATALOG_SALES</b> and <b>WEB_CONVERSION</b> as legacy. Every campaign built through the Ads API must be migrated by <b>1 Feb 2027</b>. Reporting gains new conversion events (add payment info, add to wishlist, initiate checkout, subscribe, view content), and a Pinterest MCP for ads workflows is in invite-only testing.",
+      "why": "If you launch Pinterest campaigns through a Shopify app, a feed tool or an agency, objectives and reports will change before February. Ask them now, and start adding the new events (add to wishlist, checkout) to your Pinterest Tag for better optimisation.",
+      "source": "community.pinterest.biz, Developer Monthly Newsletter (18 Nov 2026)"
+    },
+    {
+      "title": "Holiday shopping tools in Pinterest's assistant, and Pinterest inventory in Google DV360",
+      "date": "12 & 18 Nov 2026",
+      "what": "12 Nov: Pinterest's shopping assistant gets <b>trending gift guides, product comparisons and wish lists</b>. 18 Nov: Google's Display & Video 360 buyers can now buy Pinterest premium video and display inventory with Pinterest audiences.",
+      "why": "Gift guides and wish lists pull from shoppable Pins: make sure your catalogue is synced with clear titles and prices before Black Friday. The DV360 deal is for large programmatic buyers, not small stores.",
+      "source": "socialmediatoday.com (12 Nov 2026) · blog.google, Google Marketing Platform November drop (18 Nov 2026)"
+    }
+  ],
+  "other_updates": [
+    {
+      "platform": "Meta",
+      "title": "Video ads: 6 seconds can count as a ThruPlay; video audiences cut to 3 options (16 Nov)",
+      "what": "Reported on social and by PPC Land, not announced by Meta. Don't compare cost per ThruPlay across old and new campaigns. Existing 75% and 95% viewer audiences keep working for retargeting."
+    },
+    {
+      "platform": "Meta",
+      "title": "Shopify stores enabled by default for Meta's AI shopping agent (13 Nov)",
+      "what": "Secondary source (AdsUploader, citing Sierra), not confirmed by Meta. If true, an AI agent reads your product data: check prices, stock and return policy are accurate."
+    },
+    {
+      "platform": "Google",
+      "title": "Holiday “Deal ends” badges are live; promotion titles can't carry dates (13 Nov)",
+      "what": "Badge needs at least 10% off, an end date within 7 days and the lowest price in 60 days. Google Ads Editor 2.14 (12 Nov) also turns on AI Max by default for new Search campaigns: check before publishing."
+    },
+    {
+      "platform": "TikTok",
+      "title": "No verified TikTok Ads product change this week",
+      "what": "The last big items (global ad network open to US advertisers, agentic AI tools) date from early October. Symphony's video upgrade from 9 Nov remains the BFCM tool to try."
+    }
+  ],
+  "sources": "Trend Track (shops, sales tracker, Meta and Google ad libraries, TikTok profiles, 19 Nov 2026); similarweb.com public pages (Oct 2026); store homepages, founder and About pages (19 Nov 2026; thesbox.com blocks automated reading); community.pinterest.biz (18 Nov 2026); socialmediatoday.com (12 and 17 Nov 2026); blog.google (18 Nov 2026); jxtgroup.com weekly roundup (17 Nov 2026); adsuploader.com (15 Nov 2026); ppc.land (16 Nov 2026). Meta agent and ThruPlay items come from secondary sources."
+}

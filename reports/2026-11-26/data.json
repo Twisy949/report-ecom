@@ -1,0 +1,170 @@
+{
+  "edition": 5,
+  "date": "2026-11-26",
+  "week_label": "Week of 26 November 2026",
+  "headline": "3 young stores to learn from",
+  "intro": "Three Shopify stores launched in the last 12 months: a <b>retro handheld console</b> scaled on Meta with comment-reply videos, a <b>pet-odour gadget</b> sold through Meta advertorials plus YouTube, and a <b>beauty general store for women 55+</b> with no live Meta, Google or TikTok ads, where Pinterest leads social traffic.",
+  "key_takeaway": "Pinterest ad space is now sold through <b>Microsoft Advertising</b> (North America, Australia, NZ), and Pinterest's catalog campaigns get <b>Priority Products</b>: a 25%–400% bid multiplier on your Black Friday best-sellers.",
+  "method": "Trend Track: created after 26 Nov 2025; main market US, UK, CA or AU; traffic growth above 50% over 90 days; revenue above $40k/month; earlier stores excluded. The Pinterest pick has the <b>Pinterest Tag</b>, no live Meta ads and Pinterest as top social source on Similarweb (Pinterest share of paid social is an <b>inference</b>). A second candidate (curvlya.com) was dropped: Similarweb shows YouTube, not Pinterest, as its top social source. Revenue, units and traffic are estimates. *Orders estimated from units and bundles.",
+  "actions": [
+    "<b>Pinterest catalog campaigns</b>: set Priority Products on up to 5 best-seller groups (bid multiplier 25%–400%) for Black Friday–Cyber Monday.",
+    "If you also run <b>Microsoft Ads</b>, watch for Pinterest placements in reports: eligibility and opt-out controls are not published yet.",
+    "Copy RetroLab's <b>comment-reply video</b> (“Does it have Crash Bandicoot?”): answer the top buyer question on camera.",
+    "Copy Petmizer's <b>email rhythm</b>: one Black Friday email every 2 days from 15 Nov, each with a single product and a single offer."
+  ],
+  "stores": [
+    {
+      "name": "RetroLab",
+      "domain": "retrolabconsoles.com",
+      "channel": "Meta-driven",
+      "niche": "Retro handheld game console",
+      "launched": "1 Dec 2025",
+      "origin": "Australia (Trend Track profile)",
+      "market": "US 81% · ES 19% of traffic",
+      "kpis": [
+        {"value": "$1.31M", "label": "Est. revenue, last 30d", "note": "range $0.53M–$2.09M"},
+        {"value": "25.7k", "label": "Units sold, last 30d", "note": "≈ 10–13k orders*"},
+        {"value": "87k", "label": "Monthly visits (Oct)", "note": "×24 vs. September"},
+        {"value": "1,148", "label": "Active Meta ads", "note": "1 page · 3.0M reach in 30 days"}
+      ],
+      "traffic": {"labels": ["May", "Jun", "Jul", "Aug", "Sep", "Oct"], "values": [76, 10346, 16363, 7468, 3673, 87214]},
+      "branding": [
+        {"label": "Identity", "text": "One product: an all-in-one handheld with <b>“60,000+ pre-installed games from 20+ consoles”</b> (a 20,000-game version too). No founder story, no About page, no company name or address: only an email and “© 2026, RetroLab”."},
+        {"label": "Offer", "text": "Console at <b>$99</b>; add-ons at half price: 5-year warranty $9 (vs $20), cases $15 (vs $30), screen protectors and stick grips $9. Permanent “Black Friday 50% off, our biggest sale ever” banner, free worldwide shipping."},
+        {"label": "Trust stack", "text": "“4.9/5 from 2,216 verified reviews”, 2-year warranty, free returns. Every ad ends on the same quote: <i>“The best purchase ever! Pure nostalgia!” – Simon R.</i>"}
+      ],
+      "best_sellers": [
+        {"name": "All-In-One RetroLab Console", "price": "$99.00"},
+        {"name": "5-Year Extended Warranty (add-on)", "price": "$9.00"},
+        {"name": "RetroLab Case", "price": "$15.00"},
+        {"name": "Glass Screen Protector (3 pack)", "price": "$9.00"},
+        {"name": "Shockproof Case", "price": "$15.00"}
+      ],
+      "ads": [
+        "<b>Meta</b>: ~1,150 live ads on a single page (14.7k Facebook likes, 21k Instagram followers), up from ~470 in early October. Ads target 70–200 countries at once; the EU/UK data show the UK as main audience.",
+        "Top angles: a <b>comment-reply video</b> (“Does it have Crash Bandicoot?” then a scroll through the game menu: 476k reach), the <b>name-drop list</b> (“Pokémon, GTA, Super Mario, Zelda…”) and, since late October, <b>Pokémon-only landing pages</b> for Black Friday.",
+        "No Google Ads and no TikTok account found. Traffic jumped ×24 in October with the Black Friday push."
+      ],
+      "lessons": [
+        "Nostalgia sells to adults with money: a $99 device that “takes you back to your childhood” needs no explanation, and the video just shows the menu.",
+        "Cheap add-ons (warranty, case, grips at $9–15) lift the basket: units are twice the number of consoles sold.",
+        "Watch out: tens of thousands of commercial games (Nintendo, Sony, Rockstar titles) sold pre-loaded, with no licence statement and no company behind the store, is a copyright and trademark risk that gets ad accounts, payment processors and Shopify stores shut down. Learn the ad format, not the product."
+      ]
+    },
+    {
+      "name": "Petmizer",
+      "domain": "petmizer.com",
+      "channel": "Meta + Google",
+      "niche": "Pet-odour gadget",
+      "launched": "20 Apr 2026",
+      "origin": "US (Las Vegas address on site)",
+      "market": "US 100% of traffic",
+      "kpis": [
+        {"value": "$582k", "label": "Est. revenue, last 30d", "note": "range $258k–$905k"},
+        {"value": "16.6k", "label": "Units sold, last 30d", "note": "≈ 6–8k orders*"},
+        {"value": "37k", "label": "Monthly visits (Oct)", "note": "×13 vs. September"},
+        {"value": "1,039", "label": "Active Meta ads", "note": "6 linked pages · 33 Google ads"}
+      ],
+      "traffic": {"labels": ["May", "Jun", "Jul", "Aug", "Sep", "Oct"], "values": [0, 1417, 2560, 2944, 2879, 37269]},
+      "branding": [
+        {"label": "Identity", "text": "A cordless <b>“blue light & enzyme deodorizer”</b>: a sprayer that mists a plant-enzyme formula and shines a blue light that “reveals urine stains”. Homepage hero: <i>“Better Care, Better You”</i>, plus “tested hundreds of times before distribution”."},
+        {"label": "Offer", "text": "Device <b>$59.99</b> (Enzyme Fogger $99.99), 2 refills $24.99, Magic Hair Glove $14.99, lifetime warranty $14.99. Ads promise 40% to 70% off; the homepage Black Friday countdown already reads “Sale Has Ended!”."},
+        {"label": "Trust stack", "text": "60-day money-back guarantee; “Loved by 12,344+”, “23,432+”, “32,330+” or “38,400+” depending on the ad. No ratings or press on the homepage. Emails every 2 days since 15 Nov (“Early Black Friday: 40% off”)."}
+      ],
+      "best_sellers": [
+        {"name": "2x Extra Enzyme Spray Refills", "price": "$24.99"},
+        {"name": "Magic Hair Glove", "price": "$14.99"},
+        {"name": "PetMizer™ Enzyme Fogger", "price": "$99.99"},
+        {"name": "Lifetime Warranty (add-on)", "price": "$14.99"},
+        {"name": "Blue Light & Enzyme Deodorizer", "price": "$59.99"}
+      ],
+      "ads": [
+        "<b>Meta</b>: ~1,040 live ads on 6 pages (one, “Elfhue”, runs the same Petmizer copy), stable around 1,000–1,200 since September. Targeting: US, CA, UK, AU. Meta reach is only visible for EU/UK, so the US spend is not measurable.",
+        "Top angles: <b>shame hook</b> (“You probably think your house doesn't smell, but everyone who walks in smells it”), the <b>landlord/inspection</b> story (“it would have saved me a security deposit”), and long text advertorials sending to listicle pages (/pages/list1, /list3ct).",
+        "<b>Google Ads</b>: 33 live ads, mostly YouTube and Display, plus Search and Shopping. No TikTok account found."
+      ],
+      "lessons": [
+        "A smell problem is hard to film, so the ads film the <b>embarrassment</b> instead (guests, landlord, inspection): the emotion carries the demo.",
+        "Refills are the best-seller: a device with a consumable builds repeat orders from day one.",
+        "Watch out: “the only chemistry on earth that destroys odour permanently”, “kills the bacteria” and “scientifically the only device” are unsupported efficacy claims; customer counts change from ad to ad and the countdown has expired. Keep the hook, prove the claim."
+      ]
+    },
+    {
+      "name": "Valuethese",
+      "domain": "valuethese.com",
+      "channel": "Pinterest-driven",
+      "niche": "Beauty general store, women 55+",
+      "launched": "19 Jan 2026",
+      "origin": "US entity (Bohocloting Inc, Wyoming)",
+      "market": "US 100% of traffic (Trend Track)",
+      "kpis": [
+        {"value": "$214k", "label": "Est. revenue, last 30d", "note": "range $99k–$330k"},
+        {"value": "4.9k", "label": "Units sold, last 30d", "note": "≈ 2.5–3.5k orders*"},
+        {"value": "31k", "label": "Monthly visits (Oct)", "note": "Similarweb: ~342k, +51%"},
+        {"value": "0", "label": "Active Meta ads", "note": "2,306 one-day tests · no Google or TikTok ads"}
+      ],
+      "traffic": {"labels": ["May", "Jun", "Jul", "Aug", "Sep", "Oct"], "values": [310, 0, 7185, 36182, 20478, 30877]},
+      "branding": [
+        {"label": "Identity", "text": "Hero: <i>“Your daily beauty ritual, elevated. Clinically-inspired oils crafted for visible, lasting results.”</i> Audience per Similarweb: 77% female, top age group 55–64. The About page still describes a generic “global shopping platform”."},
+        {"label": "Catalogue", "text": "Trend-ingredient skincare with “Korean” names (NAD+ EGF firming serum, PDRN collagen mask, beef-tallow balm) next to unrelated tests: rust-repair paste, neck fan, fridge containers, a Statue of Liberty figurine."},
+        {"label": "Offer", "text": "Products at <b>$33–50</b> against crossed-out prices; bundles “buy 2 get 1 free, buy 3 get 2 free”, free shipping over $59, $3.99 shipping protection. 30-day money-back guarantee."}
+      ],
+      "best_sellers": [
+        {"name": "Collagen Plump & Repair Balm", "price": "$36.99"},
+        {"name": "CC Color-Correcting Tinted Serum", "price": "$36.99"},
+        {"name": "Dab & Go Hair Concealer", "price": "$32.99"},
+        {"name": "Fridge Food Storage Containers", "price": "$38.79"},
+        {"name": "Korean NAD+ EGF Firming Serum", "price": "$49.99"}
+      ],
+      "ads": [
+        "<b>Pinterest</b>: Pinterest Tag installed; Similarweb (Oct) lists <b>Pinterest as top social network</b> and <b>paid social at 79%</b> of desktop visits, then display. With no live Meta, Google or TikTok ads, the paid social is most likely <b>Pinterest Ads</b> (inference: Similarweb does not split by network).",
+        "Meta is a test bed: <b>2,306 ads on 38 pages</b> (“Valuethese Beauty3”, “ValueThese Tops”, “ValueThese Sale”…), each live for less than a day, testing products and hooks before scaling elsewhere.",
+        "Traffic figures disagree: Trend Track 31k visits in October, Similarweb ~342k. Treat both as orders of magnitude."
+      ],
+      "lessons": [
+        "Pinterest's 55+ female audience saves “anti-ageing routine” Pins weeks before buying: trend ingredients (PDRN, NAD+, tallow) are search terms on the platform.",
+        "Test on Meta for a day, scale on the channel where the audience converts: the same playbook as Thesbox last week.",
+        "Watch out: “tightens wrinkles quickly”, “reduces eye bags”, “clinically-inspired”, a “I'm 60 with no wrinkles” video with profanity, conflicting customer counts (10,000+ vs 120,000+) and a “save 0%” crossed-out price. Pinterest rejects exaggerated before/after and weight or ageing claims: learn the channel fit, not the copy."
+      ]
+    }
+  ],
+  "pinterest_updates": [
+    {
+      "title": "Pinterest ad space now sold through Microsoft Advertising",
+      "date": "23 Nov 2026",
+      "what": "Eligible Microsoft Advertising campaigns can now show in Pinterest's <b>home feed, search results and related Pins</b>, placed by a contextual bidding model built on Pinterest search queries and intent data. Launch markets: <b>North America, Australia and New Zealand</b> (Europe not included). Advertisers need no Pinterest account or new tool. Pricing, eligibility criteria, formats and opt-out controls are not published.",
+      "why": "More advertisers bidding in Pinterest's auction can push Pinterest CPCs up in the US and Australia during Q4. If you run Microsoft Shopping or Search ads, check placement reports for Pinterest traffic and judge it separately from Bing.",
+      "source": "ppc.land (23 Nov 2026), citing the Pinterest Newsroom · mediapost.com (23 Nov 2026)"
+    },
+    {
+      "title": "Release notes: Priority Products, Max Width Collections and Category Takeovers",
+      "date": "24 Nov 2026",
+      "what": "Pinterest's first product release notes (Aug–Nov 2026): <b>Priority Products</b> in Performance+ Consideration and Sales catalog campaigns, available globally: up to 5 product groups with a <b>25% to 400% bid multiplier</b>, while All Products stays active. <b>Max Width Collections</b> now in Performance+ (Consideration, Sales, Leads). A central <b>media library</b> for creatives. <b>Premiere Spotlight Category Takeover</b>: one-day category exclusivity in US, UK, FR, DE, AU, CA, via an account rep only.",
+      "why": "Priority Products is the one to use this week: push your Black Friday hero products without building a separate campaign. The takeover is for large budgets.",
+      "source": "community.pinterest.biz, Pinterest Product Release Notes August–November 2026 (24 Nov 2026)"
+    }
+  ],
+  "other_updates": [
+    {
+      "platform": "Meta",
+      "title": "Meta's Muse AI agent can shop at Walmart (25 Nov)",
+      "what": "Secondary source (PPC Land headline), not checked against Meta. No new Meta Ads product change was verified this week; Meta's new ad terms, due 20 Nov, remain paused (reported 14 Nov)."
+    },
+    {
+      "platform": "Google",
+      "title": "Demand Gen seasonality adjustments; “Book appointment” conversion goal (21 & 24 Nov)",
+      "what": "Reported by eCorpIT and Search Engine Roundtable, not by Google directly. If you run Demand Gen on YouTube, a seasonality adjustment for Black Friday–Cyber Monday keeps bidding from over-reacting to the conversion spike."
+    },
+    {
+      "platform": "TikTok",
+      "title": "No verified TikTok Ads product change this week",
+      "what": "The latest items are the Q4 product preview (GMV Max Pro, Search Ads impression share, promo CTAs, 30 Oct) and the US ad network opening (5 Oct). The Holiday Shop season runs to 30 Nov."
+    },
+    {
+      "platform": "Amazon",
+      "title": "FTC allegations on Black Friday ad surcharges (21 Nov)",
+      "what": "Secondary source (eCorpIT): reported allegations of surcharges up to 250% on Amazon Ads during Black Friday. An allegation, not an Amazon announcement: watch CPCs if you sell on Amazon too."
+    }
+  ],
+  "sources": "Trend Track (shops, sales tracker, Meta and Google ad libraries, TikTok profiles, emails, 26 Nov 2026); similarweb.com public pages (Oct 2026); store homepages, About, Contact and Games List pages (26 Nov 2026); ppc.land (23 and 25 Nov 2026); mediapost.com (23 Nov 2026); community.pinterest.biz (24 Nov 2026); seroundtable.com (20–25 Nov 2026); ecorpit.com (21 Nov 2026); relevantaudience.com (4 Nov 2026); giovanniperilli.com (14 Nov 2026). Meta, Google and Amazon items come from secondary sources."
+}
